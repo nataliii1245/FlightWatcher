@@ -1,0 +1,57 @@
+/*
+  Localizable.strings
+  FlightWatcher
+
+  Created by Natalia Volkova on 10.03.2018.
+  Copyright © 2018 Natalia Volkova. All rights reserved.
+*/
+
+"Error" = "Ошибка";
+"Couldn't detect current locality" = "Не удалось определить текущий город!";
+"Close" = "Закрыть";
+"Favorites" = "Избранные";
+"Back" = "Назад";
+"All" = "Все";
+"From map" = "С карты";
+"From search" = "Из поиска";
+"Sort" = "Сорт.";
+"%@ RUB" = "%@ руб.";
+"Ticket actions" = "Действия с билетом";
+"What to do with the ticket?" = "Что необходимо сделать с выбранным билетом?";
+"Remove from favorites" = "Удалить из избранного";
+"Remind me" = "Напомнить";
+"Sort tickets" = "Сортировка билетов";
+"By price (↑)" = "По цене (↑)";
+"By price (↓)" = "По цене (↓)";
+"Date added (↑)" = "По дате добавления (↑)";
+"Date added (↓)" = "По дате добавления (↓)";
+"%@ - %@ for %@ RUB" = "%@ - %@ за %@ руб.";
+"Ticket reminder" = "Напоминание о билете";
+"Success" = "Успешно";
+"Remainder set at %@" = "Уведомление будет отправлено - %@";
+"From" = "Куда";
+"To" = "Откуда";
+"Cities" = "Города";
+"Airports" = "Аэропорты";
+"Search" = "Поиск";
+"Prices map" = "Карта цен";
+"Favorites" = "Избранное";
+"Unnamed" = "Без названия";
+"Remove" = "Не указывать";
+"Ticket search" = "Поиск билетов";
+"Search" = "Найти";
+"No tickets found with current settings" = "Билеты, удовлетворяющие текущим условиям, не найдены";
+"not specified" = "не указано";
+"From" = "Откуда";
+"To" = "Куда";
+"Departure date" = "Дата вылета";
+"Return date" = "Дата возвращения";
+"From: %@" = "Откуда: %@";
+"To: %@" = "Куда: %@";
+"Departure date: %@" = "Дата вылета: %@";
+"Return date: %@" = "Дата возвращения: %@";
+"%lld RUB" = "%lld руб.";
+"Ticket to %@ for %@" = "Билет в %@ за %@";
+"Add to favorites" = "Добавить в избранное";
+"Tickets" = "Билеты";
+"%@ RUB" = "%@ руб.";

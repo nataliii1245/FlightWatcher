@@ -1,0 +1,57 @@
+/*
+  Localizable.strings
+  FlightWatcher
+
+  Created by Natalia Volkova on 10.03.2018.
+  Copyright © 2018 Natalia Volkova. All rights reserved.
+*/
+
+"Error" = "Error";
+"Couldn't detect current locality" = "Couldn't detect current locality";
+"Close" = "Close";
+"Favorites" = "Favorites";
+"Back" = "Back";
+"All" = "All";
+"From map" = "From map";
+"From search" = "From search";
+"Sort" = "Sort";
+"%@ RUB" = "%@ RUB";
+"Ticket actions" = "Ticket actions";
+"What to do with the ticket?" = "What to do with the ticket?";
+"Remove from favorites" = "Remove from favorites";
+"Remind me" = "Remind me";
+"Sort tickets" = "Sort tickets";
+"By price (↑)" = "By price (↑)";
+"By price (↓)" = "By price (↓)";
+"Date added (↑)" = "Date added (↑)";
+"Date added (↓)" = "Date added (↓)";
+"%@ - %@ for %@ RUB" = "%@ - %@ for %@ RUB";
+"Ticket reminder" = "Ticket reminder";
+"Success" = "Success";
+"Remainder set at %@" = "Remainder set at %@";
+"From" = "From";
+"To" = "To";
+"Cities" = "Cities";
+"Airports" = "Airports";
+"Search" = "Search";
+"Prices map" = "Prices map";
+"Favorites" = "Favorites";
+"Unnamed" = "Unnamed";
+"Remove" = "Remove";
+"Ticket search" = "Ticket search";
+"Search" = "Search";
+"No tickets found with current settings" = "No tickets found with current settings";
+"not specified" = "not specified";
+"From" = "From";
+"To" = "To";
+"Departure date" = "Departure date";
+"Return date" = "Return date";
+"From: %@" = "From: %@";
+"To: %@" = "To: %@";
+"Departure date: %@" = "Departure date: %@";
+"Return date: %@" = "Return date: %@";
+"%lld RUB" = "%lld RUB";
+"Ticket to %@ for %@" = "Ticket to %@ for %@";
+"Add to favorites" = "Add to favorites";
+"Tickets" = "Tickets";
+"%@ RUB" = "%@ RUB";
